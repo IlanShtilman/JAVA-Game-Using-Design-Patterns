@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUIGame">
+  <grid id="27dc6" binding="GUIGamePanel" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="646" height="1147"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+    </properties>
+    <border type="none">
+      <title-color color="-2104859"/>
+    </border>
+    <children/>
+  </grid>
+</form>
